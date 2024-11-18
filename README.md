@@ -27,4 +27,4 @@
 1. Certifique-se de ter o **JDK 8 ou superior** instalado.
 2. Baixe o código ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/atividade-java.git
+   git clone https://github.com/CristianRadde/AtividadeAvaliativa01
